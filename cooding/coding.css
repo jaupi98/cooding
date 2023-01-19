@@ -1,0 +1,55 @@
+body{
+  background-image: url(background.jpg);
+  background-size: 1950px;
+  color: white;
+
+
+}
+.container{
+    margin: 100px 300px 100px 300px;
+    background-color: rgba(0, 0, 0, .5);
+    border: 60px solid  rgba(0, 0, 0, .01);
+  }
+.logo{
+  width: 300px;
+  display: block;
+  margin:0 auto;
+}
+}
+.titolo{
+  text-align: center;
+}
+#testo{
+  text-align: center;
+  font-size: 40px;
+  color: rgba(57, 240, 73);
+}
+.elementi{
+  text-align: center;
+  background-color: rgba(57, 240, 73);
+  padding: 10px;
+}
+input{
+  display: inline-block;
+}
+h2{
+  display: inline-block;
+}
+div > span{
+  font-size: 20px;
+}
+#rettangolo1{
+  width: 350px;
+   height: 25px;
+   background: orange;
+}
+#rettangolo2{
+  width: 500px;
+   height: 25px;
+   background: rgba(57, 240, 73);
+ }
+ #rettangolo3{
+   width: 200px;
+    height: 25px;
+    background: red;
+ }
